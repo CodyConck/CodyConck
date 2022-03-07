@@ -1,14 +1,10 @@
-<div align="center">
-</div>  
+### <div align="left">I'm Cody, a full-time full-stack freelance developer in search of new opportunities!</div>  
   
 
-### <div align="center">I'm Cody, a full-time full-stack freelance developer in search of new opportunities!</div>  
+Feel free to check out my [Portfolio](http://example/com)  
   
 
-- Feel free to check out my [Portfolio](http://example/com)  
-  
-
-- Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93/)  
+Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93/)  
   
 
 <br/>  
