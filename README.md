@@ -11,7 +11,7 @@ Feel free to check out my [Portfolio](http://example/com)
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I’m currently readinf/working through <em>Eloquent Javascript</em>
+- I’m currently reading/working through <em>Eloquent Javascript</em>
 
 - I'm brushing up on coding skills through Codecademy.
   
