@@ -1,7 +1,7 @@
 ### <div align="left">I'm Cody, a full-stack freelance developer in search of new opportunities!</div>  
   
 
-Feel free to check out my [Portfolio](http://example/com)  
+Feel free to check out my [Portfolio](https://codyconck.github.io/CC-Designs-React-Portfolio/)  
   
 
 ### Get in touch:
