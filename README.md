@@ -1,9 +1,8 @@
-### <div align="left">I'm Cody, a full-time full-stack freelance developer in search of new opportunities!</div>  
+### <div align="left">I'm Cody, a full-stack freelance developer in search of new opportunities!</div>  
   
 
 Feel free to check out my [Portfolio](http://example/com)  
   
-
 Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93)  
 
 ### Get in touch:
@@ -47,3 +46,15 @@ Languages and Tools
 </td></tr></table>  
 <br/>  
  
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jjlindsey&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlindsey&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
