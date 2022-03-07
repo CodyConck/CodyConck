@@ -4,7 +4,7 @@
 Feel free to check out my [Portfolio](http://example/com)  
   
 
-Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93/)  
+Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93)  
 
 ### Get in touch:
 [<img src="https://user-images.githubusercontent.com/12735296/137177007-bd18ae98-e465-4613-97cb-e0e964901389.png" height =40 />](mailto:codyconck@gmail.com)
