@@ -8,21 +8,19 @@ Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93)
 
 ### Get in touch:
 [<img src="https://user-images.githubusercontent.com/12735296/137177007-bd18ae98-e465-4613-97cb-e0e964901389.png" height =40 />](mailto:codyconck@gmail.com)
-[<img src="https://user-images.githubusercontent.com/12735296/138142209-b7241204-2b57-4d0b-9b72-6015b0e3d1a8.png" height = 40 />](https://https://www.linkedin.com/in/cody-concklin-01a67b93/)
+[<img src="https://user-images.githubusercontent.com/12735296/138142209-b7241204-2b57-4d0b-9b72-6015b0e3d1a8.png" height = 40 />](https://www.linkedin.com/in/cody-concklin-01a67b93)
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - I’m currently readinf/working through <em>Eloquent Javascript</em>
 
--  I'm brushing up on coding skills through Codecademy.
+- I'm brushing up on coding skills through Codecademy.
   
-- ⚡ Fun fact: I am a twin!
+-  Fun fact: I am a twin!
 
 </td><td valign="top" width="50%">
   
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -47,4 +45,3 @@ Visit my  [LinkedIn](https://www.linkedin.com/in/cody-concklin-01a67b93)
 
 </td><td valign="top" width="33%">
  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
